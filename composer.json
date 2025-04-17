@@ -1,0 +1,24 @@
+{
+  "name": "propra-nl/jl-packages",
+  "description": "Jl-Packages",
+  "homepage": "https://www.propra.nl",
+  "authors": [
+    {
+      "name": "Josha van Praag",
+      "email": "josha@propra.nl"
+    }
+  ],
+  "require": {
+    "php": "^8.3",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "ext-zip": "*",
+    "phpmailer/phpmailer": "^6.9",
+    "robthree/twofactorauth": "^3.0",
+    "spatie/image": "^2.2",
+    "smarty/smarty": "^4.1",
+    "lorisleiva/laravel-actions": "^2.9",
+    "illuminate/contracts": "^10.0|^11.0|^12.0",
+    "symfony/http-foundation": "^6.3|^7.2"
+  }
+}
