@@ -15,10 +15,8 @@
     "ext-zip": "*",
     "phpmailer/phpmailer": "^6.9",
     "robthree/twofactorauth": "^3.0",
-    "spatie/image": "^2.2",
+    "spatie/image": "^3.8",
     "smarty/smarty": "^4.1",
-    "lorisleiva/laravel-actions": "^2.9",
-    "illuminate/contracts": "^11.0",
-    "symfony/http-foundation": "^7.2"
+    "lorisleiva/laravel-actions": "^2.8.6"
   }
 }
