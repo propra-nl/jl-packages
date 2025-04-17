@@ -17,8 +17,6 @@
     "robthree/twofactorauth": "^3.0",
     "spatie/image": "^2.2",
     "smarty/smarty": "^4.1",
-    "lorisleiva/laravel-actions": "^2.9",
-    "illuminate/contracts": "^10.0",
-    "symfony/http-foundation": "^6.2"
+    "lorisleiva/laravel-actions": "^2.7.3"
   }
 }
