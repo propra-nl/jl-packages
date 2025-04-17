@@ -17,6 +17,6 @@
     "robthree/twofactorauth": "^3.0",
     "spatie/image": "^3.8",
     "smarty/smarty": "^4.1",
-    "lorisleiva/laravel-actions": "^2.8.6"
+    "lorisleiva/laravel-actions": "^2.9"
   }
 }
