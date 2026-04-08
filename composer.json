@@ -13,10 +13,10 @@
     "ext-json": "*",
     "ext-curl": "*",
     "ext-zip": "*",
-    "phpmailer/phpmailer": "^6.9",
+    "phpmailer/phpmailer": "^7.0",
     "robthree/twofactorauth": "^3.0",
-    "spatie/image": "^3.8",
+    "spatie/image": "^3.9",
     "smarty/smarty": "^4.1",
-    "lorisleiva/laravel-actions": "^2.9"
+    "lorisleiva/laravel-actions": "^2.10"
   }
 }
